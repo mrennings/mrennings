@@ -6,7 +6,7 @@
 - from Wuppertal, Germany.
 - Languages: German, English
 - Currently I'm in a training program to become a Cloud Computing/DevOps-Engineer @[Techstarter GmbH](https://github.com/TechstarterGmbH/ "Techstarter GmbH").
-- Some years ago I contributed to Gentoo User Overlay and translated [KVIrc](https://github.com/kvirc KVIrc) to german
+- Some years ago I contributed to Gentoo User Overlay and translated [KVIrc](https://github.com/kvirc "KVIrc") to german
 
 
 # How to contact
