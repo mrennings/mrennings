@@ -6,7 +6,7 @@
 - from Wuppertal, Germany.
 - Languages: German, English
 - Currently I'm in a training program to become a Cloud Computing/DevOps-Engineer @[Techstarter GmbH](https://github.com/TechstarterGmbH/ "Techstarter GmbH").
-- Some years ago I contributed to Gentoo User Overlay and translated [KVIrc](https://github.com/kvirc "KVIrc") to german
+- I was maintainer of the german translation of [KVIrc](https://github.com/kvirc "KVIrc") and contributor to Gentoo User Overlay
 
 
 # How to contact
@@ -21,8 +21,9 @@
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Shell-Zsh-informational?style=flat&logo=gnu-bash&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
+![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=flat&logo=vim&logoColor=white)
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
