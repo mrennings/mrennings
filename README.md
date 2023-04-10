@@ -7,6 +7,11 @@
 - Languages: German, English
 - Currently I'm in a training program to become a Cloud Computing/DevOps-Engineer @[Techstarter GmbH](https://github.com/TechstarterGmbH/ "Techstarter GmbH").
 - I was maintainer of the german translation of [KVIrc](https://github.com/kvirc "KVIrc") and contributor to Gentoo User Overlay
+- Certifications
+  - Upcoming exams (in no particular order and with no ETA):
+    - AWS CCP (Cloud Practitioner Foundational)
+    - LPIC-1
+    - PSM 1 (Scrum Master)
 
 
 # How to contact
