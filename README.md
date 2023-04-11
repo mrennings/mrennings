@@ -19,7 +19,6 @@
 [![Linkedin: Markus Rennings](https://img.shields.io/badge/-Markus_Rennings-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/markus-rennings-513505249/)](https://www.linkedin.com/in/markus-rennings-513505249/)
 [![E-Mail](https://img.shields.io/badge/-Markus_Rennings-blue?style=flat-square&logo=maildotru&label=E-Mail&logoColor=white)](mailto:markus@rennings.net)
 [![Website](https://img.shields.io/website?down_message=www.rennings.net&up_color=blue&up_message=www.rennings.net&url=https%3A%2F%2Fwww.rennings.net%2F)](https://www.rennings.net/ "Website not up to date")
-[![wakatime](https://wakatime.com/badge/user/1a1667d3-9a55-40f9-8739-3995d404f5f8.svg)](https://wakatime.com/@1a1667d3-9a55-40f9-8739-3995d404f5f8)
 [![GitHub mrennings](https://img.shields.io/github/followers/mrennings?style=social)](https://github.com/mrennings)
 
 
@@ -33,6 +32,8 @@
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
+
+[![wakatime](https://wakatime.com/badge/user/1a1667d3-9a55-40f9-8739-3995d404f5f8.svg)](https://wakatime.com/@1a1667d3-9a55-40f9-8739-3995d404f5f8)
 
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
 
