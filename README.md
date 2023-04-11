@@ -24,16 +24,14 @@
 
 # Tech
 
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Shell-Zsh-informational?style=flat&logo=gnu-bash&logoColor=white&color=6aa6f8)
+![Linux](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
+![Zsh](https://img.shields.io/badge/Shell-Zsh-informational?style=flat&logo=gnu-bash&logoColor=white&color=6aa6f8)
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
+![VSCode](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=flat&logo=vim&logoColor=white)
 
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
-
-[![wakatime](https://wakatime.com/badge/user/1a1667d3-9a55-40f9-8739-3995d404f5f8.svg)](https://wakatime.com/@1a1667d3-9a55-40f9-8739-3995d404f5f8)
+![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
+![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
 
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
 
@@ -60,5 +58,5 @@
 [![mrennings's github trophy](https://github-profile-trophy.vercel.app/?username=mrennings&row=1&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-
+[![wakatime](https://wakatime.com/badge/user/1a1667d3-9a55-40f9-8739-3995d404f5f8.svg)](https://wakatime.com/@1a1667d3-9a55-40f9-8739-3995d404f5f8)
 ![Profile views](https://gpvc.arturio.dev/mrennings)
