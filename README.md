@@ -9,10 +9,10 @@
 - I was maintainer of the german translation of [KVIrc](https://github.com/kvirc "KVIrc") and contributor to Gentoo User Overlay
 - Certifications
   - Upcoming exams (in no particular order and with no ETA):
-    - LPIC-1
     - PSM 1 (Scrum Master)
   - Passed exams:
     - AWS CCP (Cloud Practitioner Foundational)
+    - LPI LE-1 (Linux Essentials)
 
 # How to contact
 
