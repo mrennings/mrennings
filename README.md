@@ -1,3 +1,4 @@
+![Word cloud: Imagine Peace](img/wordcloud.png)
 ## Hi there 👋
 
 # I'm Markus 
