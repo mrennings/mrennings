@@ -1,7 +1,8 @@
 ![Word cloud: Imagine Peace](img/wordcloud.png)
+
 ## Hi there 👋
 
-# I'm Markus 
+# I'm Markus
 
 - he/him
 - from Wuppertal, Germany.
@@ -22,15 +23,14 @@
 [![Website](https://img.shields.io/website?down_message=www.rennings.net&up_color=blue&up_message=www.rennings.net&url=https%3A%2F%2Fwww.rennings.net%2F)](https://www.rennings.net/ "Website not up to date")
 [![GitHub mrennings](https://img.shields.io/github/followers/mrennings?style=social)](https://github.com/mrennings)
 
-
 # Tech
 
 ![Linux](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
 ![Zsh](https://img.shields.io/badge/Shell-Zsh-informational?style=flat&logo=gnu-bash&logoColor=white&color=6aa6f8)
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-
 ![VSCode](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
-![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=flat&logo=vim&logoColor=white)
+![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
+
 [![Joplin](https://img.shields.io/badge/Joplin-1071D3?style=flat&logo=joplin&logoColor=white)](https://joplinapp.org/ "Joplin App")
 
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
@@ -38,14 +38,11 @@
 
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
 
-
-
-
 # Some stats
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrennings&show_icons=true&theme=transparent&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 -->
 <picture>
-  <source 
+  <source
     srcset="https://github-readme-stats.vercel.app/api?username=mrennings&show_icons=true&theme=tokyonight&include_all_commits=true"
     media="(prefers-color-scheme: dark)"
   />
@@ -57,9 +54,7 @@
 </picture>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrennings&show_icons=true&theme=tokyonight&include_all_commits=true&layout=compact" align="center">
 
-
 [![mrennings's github trophy](https://github-profile-trophy.vercel.app/?username=mrennings&row=1&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
-
 
 [![wakatime](https://wakatime.com/badge/user/1a1667d3-9a55-40f9-8739-3995d404f5f8.svg)](https://wakatime.com/@1a1667d3-9a55-40f9-8739-3995d404f5f8)
 ![Profile views](https://gpvc.arturio.dev/mrennings)
