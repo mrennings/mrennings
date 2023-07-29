@@ -41,6 +41,8 @@
 # Some stats
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrennings&show_icons=true&theme=transparent&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 -->
+[![wakatime](https://wakatime.com/badge/user/1a1667d3-9a55-40f9-8739-3995d404f5f8.svg)](https://wakatime.com/@1a1667d3-9a55-40f9-8739-3995d404f5f8)
+
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=mrennings&show_icons=true&theme=tokyonight&include_all_commits=true"
@@ -56,5 +58,6 @@
 
 [![mrennings's github trophy](https://github-profile-trophy.vercel.app/?username=mrennings&row=1&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![wakatime](https://wakatime.com/badge/user/1a1667d3-9a55-40f9-8739-3995d404f5f8.svg)](https://wakatime.com/@1a1667d3-9a55-40f9-8739-3995d404f5f8)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mrennings&theme=tokyonight&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
+
 ![Profile views](https://gpvc.arturio.dev/mrennings)
