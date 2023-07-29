@@ -59,5 +59,3 @@
 [![mrennings's github trophy](https://github-profile-trophy.vercel.app/?username=mrennings&row=1&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mrennings&theme=tokyonight&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
-
-![Profile views](https://gpvc.arturio.dev/mrennings)
