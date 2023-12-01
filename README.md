@@ -20,7 +20,7 @@
 
 [![Linkedin: Markus Rennings](https://img.shields.io/badge/-Markus_Rennings-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/markus-rennings-513505249/)](https://www.linkedin.com/in/markus-rennings/)
 [![E-Mail](https://img.shields.io/badge/-Markus_Rennings-blue?style=flat-square&logo=maildotru&label=E-Mail&logoColor=white)](mailto:markus@rennings.net)
-[![Website](https://img.shields.io/website?down_message=www.rennings.net&up_color=blue&up_message=www.rennings.net&url=https%3A%2F%2Fwww.rennings.net%2F)](https://www.rennings.net/ "Website not up to date")
+[![Website](https://img.shields.io/website?down_message=markus.rennings.net&up_color=blue&up_message=markus.rennings.net&url=https%3A%2F%2Fmarkus.rennings.net%2F)](https://markus.rennings.net/)
 [![GitHub mrennings](https://img.shields.io/github/followers/mrennings?style=social)](https://github.com/mrennings)
 
 # Tech
