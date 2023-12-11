@@ -52,10 +52,12 @@
     srcset="https://github-readme-stats.vercel.app/api?username=mrennings&show_icons=true&theme=transparent&include_all_commits=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=mrennings&show_icons=true&theme=tokyonight&include_all_commits=true" align="center"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mrennings&show_icons=true&theme=tokyonight&include_all_commits=true" align="center" alt="my Github stats"/>
 </picture>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrennings&show_icons=true&theme=tokyonight&include_all_commits=true&layout=compact" align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrennings&show_icons=true&theme=tokyonight&include_all_commits=true&layout=compact" align="center" alt="my top used languages">
 
 [![mrennings's github trophy](https://github-profile-trophy.vercel.app/?username=mrennings&row=1&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mrennings&theme=tokyonight&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
+
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/6576cc035145316d25e7b0bd?variant=dark&roadmaps=devops%2Cgolang%2Cpython%2Cbackend)](https://roadmap.sh)
